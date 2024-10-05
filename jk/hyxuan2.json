@@ -156,6 +156,104 @@
         }, 
 
 
+    
+     {
+      "key": "pianku",
+      "name": "🍭环宇轩|片库",
+      "type": 3,
+       "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/片库.json"
+    },
+
+ {
+      "key": "阳光影视",
+      "name": "🍭环宇轩|阳光影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/阳光影视.json"
+    },
+
+ {
+      "key": "老牛影视",
+      "name": "🍭环宇轩|老牛影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/老牛影视.json"
+    },
+
+ {
+      "key": "华东影视",
+      "name": "🍭环宇轩|华东影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/华东影视.json"
+    },
+
+ {
+      "key": "海草影视",
+      "name": "🍭环宇轩|海草影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/海草影视.json"
+    },
+
+ {
+      "key": "80S影视",
+      "name": "🍭环宇轩|80S影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/80S影视.json"
+    },
+
+ {
+      "key": "3397影视",
+      "name": "🍭环宇轩|3397影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/3397影视.json"
+    },
+
+ {
+      "key": "168影视",
+      "name": "🍭环宇轩|168影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/168影视.json"
+    },
+	  
+	  
 
    {
       "key": "hipy_js_采集[合]",

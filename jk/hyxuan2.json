@@ -2,15 +2,15 @@
   "warningText": "🍭环宇轩提醒您:本接口长期更新维护 请放心使用🍭",
 
 
-  "spider": "http://www.7887887.xyz/vip2024/jk/yoursmile.jar",
-   "spider": "http://www.7887887.xyz/vip2024/jk/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+  "spider": "https://hyxuanit.github.io/jk/yoursmile.jar",
+   "spider": "https://hyxuanit.github.io/jk/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "logo": "http://www.hyxuan.top/nf.gif",
+  "logo": "https://hyxuanit.github.io/nf.gif",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "http://www.7887887.xyz/VIP/live/live.txt",
+      "url": "https://hyxuanit.github.io/zb/240817.txt",
       "playerType": 1,
       "epg": "https://m3u.ibert.me/epg/112114_xyz.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -19,7 +19,7 @@
 
 	"drives":[
 	   
-	    {"name":"🍭环宇轩🍭","server":"https://alist.7887887.xyz","type":"alist"}
+	    {"name":"🍭环宇轩🍭","server":"https://alist.891218.xyz","type":"alist"}
     ],
 
 
@@ -84,8 +84,8 @@
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://www.891218.xyz/vip2024/jk/bl/bljs.json",
-    "spider":"http://www.891218.xyz/vip2024/jk/jar/wuai.jar"
+    "ext": "https://hyxuanit.github.io/jk/bl/bljs.json",
+    "spider":"https://hyxuanit.github.io/jk/jar/wuai.jar"
     },
             
          {
@@ -96,8 +96,8 @@
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://www.891218.xyz/vip2024/jk/bl/blyx.json",
-    "spider":"http://www.891218.xyz/vip2024/jk/jar/wuai.jar"
+    "ext": "https://hyxuanit.github.io/jk/bl/blyx.json",
+    "spider":"https://hyxuanit.github.io/jk/jar/wuai.jar"
     },       
  
        {
@@ -108,8 +108,8 @@
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://www.891218.xyz/vip2024/jk/bl/blyy.json",
-    "spider":"http://www.891218.xyz/vip2024/jk/jar/wuai.jar"
+    "ext": "https://hyxuanit.github.io/jk/bl/blyy.json",
+    "spider":"https://hyxuanit.github.io/jk/jar/wuai.jar"
     },    
     
        {
@@ -120,8 +120,8 @@
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://www.891218.xyz/vip2024/jk/bl/blsj.json",
-    "spider":"http://www.891218.xyz/vip2024/jk/jar/wuai.jar"
+    "ext": "https://hyxuanit.github.io/jk/bl/blsj.json",
+    "spider":"https://hyxuanit.github.io/jk/jar/wuai.jar"
     },    
 
 
